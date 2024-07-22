@@ -1,3 +1,5 @@
+##
+
 one, two = map(int,input("두 수 입력 : ").split())
 def calc(one, two) :
     if one > two :
